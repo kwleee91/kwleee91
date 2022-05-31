@@ -3,7 +3,7 @@
 Welcome to my page 😁
 
 ### 💻 My Stack
-<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white"/>
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/> <img alt="React" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white"/> <img alt="Typescript" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=white"/>
 
 <!--
 **kwleee91/kwleee91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
